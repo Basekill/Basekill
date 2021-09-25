@@ -27,6 +27,9 @@ I am currently training for ICPC and studying machine learning. I was a game des
 - 2014-2016 [Escape!](https://www.roblox.com/games/151206652/Escape)
 - 2014-2016 [Farmulator](https://www.roblox.com/games/306503935/Farmulator)
 
+#### 📰 Articles
+- 2018 [How Social Loops Keep Players Playing](https://medium.com/roblox-developer/from-the-devs-how-social-loops-keep-players-playing-6b24b299c124)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Basekill&show_icons=true)  
 
