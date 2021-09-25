@@ -16,5 +16,17 @@ Skills: Python / C++ / PHP / HTML / CSS
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
+#### 🕹️ Game Design Projects
+
+- 2021 [GPlane](https://www.roblox.com/games/1025460213/GPlane)
+- 2021 [Snakes on a Zeppelin](https://www.roblox.com/games/1852106071/Snakes-on-a-Zeppelin-BETA)
+- 2021 [Scythe Legends](https://www.roblox.com/games/6336560734/Scythe-Legends)
+- 2021 [Dropblox](https://www.roblox.com/games/5607233300/SUMMER-DropBlox-BETA)
+- 2018 [Lightseeker - RDC EU 2018 Game Jam 2nd Place](https://www.roblox.com/games/2234176528/Lightseeker)
+- 2015-2020 [Game Dev Life](https://www.roblox.com/games/864324882/Game-Dev-Life-Alpha)
+- 2014-2015 [Escape!](https://www.roblox.com/games/151206652/Escape)
+- 2014-2016 [Farmulator](https://www.roblox.com/games/306503935/Farmulator)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Basekill&show_icons=true)  
 
