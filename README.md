@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Steven
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&lines=Studying+Computing+at+Imperial+College+London)](https://git.io/typing-svg)
 
+I am currently training for ICPC and studying machine learning. I was a game designer for 7 years on many Roblox projects.
+
 - 🖥️ [Competitive Programmer - Codeforces](https://codeforces.com/profile/Basekill)
 
 
