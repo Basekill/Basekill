@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Steven
-#### I am studying Computing at Imperial College London
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&lines=Studying+Computing+at+Imperial+College+London)](https://git.io/typing-svg)
 
 - 🖥️ [Competitive Programmer - Codeforces](https://codeforces.com/profile/Basekill)
 
