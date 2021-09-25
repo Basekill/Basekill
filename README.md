@@ -18,18 +18,18 @@ I am currently training for ICPC and studying machine learning. I was a game des
 
 #### 🕹️ Game Design Projects
 
-- 2021 [Fat Wallet Productions](https://www.roblox.com/groups/5774773/Fat-Wallet-Productions#!/about)
+- 2021 Fat Wallet Productions
   - [GPlane](https://www.roblox.com/games/1025460213/GPlane)
   - [Snakes on a Zeppelin](https://www.roblox.com/games/1852106071/Snakes-on-a-Zeppelin-BETA)
-- 2021 [XueDab Studios](https://www.roblox.com/groups/6717202/XueDab-studios#!/about)
+- 2021 XueDab Studios
   - [Scythe Legends](https://www.roblox.com/games/6336560734/Scythe-Legends)
-- 2021 [Outstanding Move](https://www.roblox.com/groups/7535240/DropBlox-Studios#!/about)
+- 2021 Outstanding Move
   - [Dropblox](https://www.roblox.com/games/5607233300/SUMMER-DropBlox-BETA)
 - 2018 [Lightseeker - RDC EU 2018 Game Jam 2nd Place](https://www.roblox.com/games/2234176528/Lightseeker)
-- 2014-2020 [DoubleJGames](https://www.roblox.com/groups/3139217/DoubleJGames#!/about)
+- 2014-2020 DoubleJGames
   - [Game Dev Life](https://www.roblox.com/games/864324882/Game-Dev-Life-Alpha)
   - [Escape!](https://www.roblox.com/games/151206652/Escape)
-- 2014-2016 [Algy Games](https://www.roblox.com/groups/2941272/twitter-com-AlgyLaceyRBLX#!/about)
+- 2014-2016 Algy Games
   -  [Farmulator](https://www.roblox.com/games/306503935/Farmulator)
 
 #### 📰 Articles
