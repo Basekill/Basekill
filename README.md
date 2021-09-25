@@ -1,8 +1,6 @@
 ### Hi there 👋, my name is Steven
 #### I am studying Computing at Imperial College London
 
-Skills: Python / C++ / PHP / HTML / CSS
-
 - 🖥️ [Competitive Programmer - Codeforces](https://codeforces.com/profile/Basekill)
 
 
